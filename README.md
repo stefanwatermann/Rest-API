@@ -1,5 +1,5 @@
-# A REST Api Framework for XOJO
-This project can be used to build RESTful API's using XOJO Web.
+# A server-side REST-Api Framework for XOJO
+This project can be used to build server-side RESTful API's using XOJO Web.
 The idea for this implementation is loosely based on the concept of the DOTNET WebAPI Framework.
 
 ## Prerequisists
