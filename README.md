@@ -21,4 +21,4 @@ Run the project and do REST calls to teh API endpoints.
 -  Request: `curl -H "Authorization: Basic SGVsbG86V29ybGQ=" -H "X-API-KEY: ThisIsMySecureApiKey" http://localhost:8080/api/test`
 -  Response: {"Name":"Willi","Email":"willi@bla.com"}
 
-To create a new API application just copy Lib/RestApi to a new XOJO Web App and folow the instaructions in RestApi/Usage. 
+To create a new API application just copy Lib/RestApi to a new XOJO Web App and follow the instructions in RestApi/Usage. 
