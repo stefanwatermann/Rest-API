@@ -13,7 +13,7 @@ The sample project consists of two sample REST API's:
 - /api/test 
 - /api/ping
 
-Run the project and do REST calls to teh API endpoints.
+Run the project and do REST calls to the sample API endpoints.
 
 -  Request: `curl -H "Authorization: Basic SGVsbG86V29ybGQ=" http://localhost:8080/api/ping`
 -  Response: 04.11.2025, 18:06:27
