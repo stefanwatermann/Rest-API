@@ -2,9 +2,6 @@
 This project can be used to build server-side RESTful API's using XOJO Web.
 The idea for this implementation is loosely based on the concept of the DOTNET WebAPI Framework.
 
-## Prerequisists
-You need to have a valid XOJO (Professional) license to use this framework.
-
 ## Usage
 Clone the project and open it in the XOJO development environment.
 Consult the App/Readme file for more details.
